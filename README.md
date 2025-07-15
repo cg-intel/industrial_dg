@@ -4,6 +4,10 @@
 ```bash
 pip install labelme opencv-python numpy
 ```
+Run labelme
+```bash
+labelme
+```
 In case of this error: ImportError: DLL load failed while importing onnxruntime_pybind11_state: A dynamic link library (DLL) initialization routine failed.
 , do
 ```bash
